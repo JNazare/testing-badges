@@ -1,0 +1,14 @@
+{
+  "uid": "56aa4c9bf3a6a0125aaf24bf",
+  "recipient": {
+    "type": "email",
+    "identity": "javierhr@media.mit.edu",
+    "hashed": false
+  },
+  "issuedOn":  "2016-01-28",
+  "badge": "https://raw.githubusercontent.com/JNazare/testing-badges/master/rookie-badge-class.json",
+  "verify": {
+    "type": "hosted",
+    "url": "https://raw.githubusercontent.com/JNazare/testing-badges/master/rookie-badge-award.json"
+  }
+}
